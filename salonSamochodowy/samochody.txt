@@ -1,0 +1,18 @@
+3, Honda Civic, 21000
+4, Volkswagen Golf, 23000
+5, BMW 3 Series, 25000
+6, Audi A4, 27000
+7, Mercedes-Benz C-Class, 30000
+8, Skoda Octavia, 19000
+9, Renault Megane, 21000
+10, Peugeot 308, 20000
+11, Mazda 3, 22000
+12, Kia Ceed, 18000
+13, Hyundai i30, 20000
+14, Opel Astra, 19000
+15, Subaru Impreza, 23000
+16, Lexus IS, 31000
+17, Alfa Romeo Giulia, 32000
+18, Volvo S60, 28000
+19, Jaguar XE, 35000
+20, Tesla Model 3, 40000
